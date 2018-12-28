@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-12-28T12:59:59Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Oled128x32"
+        },
+        "Owner": "Patrik Marcacci <patrik.marcacci@gmail.com>",
+        "Size": {
+            "X": 31.166,
+            "Y": 11.928
+        }
+    }
+}
